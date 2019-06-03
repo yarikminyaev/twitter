@@ -1,0 +1,35 @@
+.first{
+	height: 100px;
+	background-color: blue;
+}
+.second{
+	height: 900px;
+	
+}
+.mar-l{
+	margin-left: 350px;
+}
+.butt{
+	    background-color: #1b67e2;
+		border-radius: 3px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		border:none;
+		color: white;
+}
+.vn{
+	height: 58px;
+}
+.mar-l2{
+	margin-left: 80px;
+}
+.input{
+	height: 50px;
+	width: 300px;
+}
+.mar-l3{
+	margin-left: 270px;
+		}
+		.in
